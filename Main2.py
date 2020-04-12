@@ -181,13 +181,3 @@ plt.show()
 max(plateau_min)
 max(plateau_max)
 max(plateau_avg)
-
-
-
-
-
-
-
-
-
-
